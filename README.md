@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a hobbist Python programmer. I am happy to see you on my github. Please take a look at my profile.
+
+I am currently looking for a job as a Junior Python Developer so I would really appreciate any offers :D
+
+📫 How to reach me:
+![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 <!--
 **maciejolszanski/maciejolszanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
