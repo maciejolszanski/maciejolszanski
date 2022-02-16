@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a hobbist Python programmer. I am happy to see you on my github. Please take a look at my profile.
 
-I am currently looking for a job as a Junior Python Developer so I would really appreciate any offers :D
+#### I am currently looking for a job as a Junior Python Developer so I would really appreciate any offers :D
 
 
 
