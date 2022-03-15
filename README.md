@@ -9,7 +9,7 @@ Currently, I spend most of my time developing my Data Science skills. Here are m
 * [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
 * [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
 
-I made few web projects, too:
+I made few web projects using Django, too:
 * [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
 * [Learning Logs](https://github.com/maciejolszanski/Learning_Logs)
 
