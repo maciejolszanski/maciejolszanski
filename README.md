@@ -1,12 +1,28 @@
 ## Hi there 👋
 
-I am a hobbist Python programmer. I am happy to see you on my github. Please take a look at my profile.
+I am a begginer Python programmer. I am happy to see you on my github. Please take a look at my profile.
 
-#### I am currently looking for a job as a Junior Python Developer so I would really appreciate any offers :D
+### My projects
+Currently, I spend most of my time developing my Data Science skills. Here are my repos within this area:
+
+* [Machine Learning](https://github.com/maciejolszanski/ML_basics)
+* [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
+* [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
+
+I made some web projects, too:
+* [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
+* [Learning Logs](https://github.com/maciejolszanski/Learning_Logs)
+
+You can also find here some projects using pygame module  - developing them I improved OOP.
+* [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
+* [Alien Invasion](https://github.com/maciejolszanski/Alien_Invasion_development)
 
 
 
-https://www.linkedin.com/in/maciejolszanski/
+#### I am currently looking for a job as a Junior Data Scientist so I would really appreciate any offers :D
+
+
+ https://www.linkedin.com/in/maciejolszanski/
 
 <!-- This shows my most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejolszanski)](https://github.com/anuraghazra/github-readme-stats)
