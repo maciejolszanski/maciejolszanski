@@ -9,14 +9,17 @@ Currently, I spend most of my time developing my Data Science skills. Here are m
 * [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
 * [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
 
-I made some web projects, too:
+I made few web projects, too:
 * [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
 * [Learning Logs](https://github.com/maciejolszanski/Learning_Logs)
 
-You can also find here some projects using pygame module  - developing them I improved OOP.
+You can also find here few projects using pygame module  - developing them I improved OOP.
 * [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
 * [Alien Invasion](https://github.com/maciejolszanski/Alien_Invasion_development)
 
+And smaller web-scraping projects:
+* [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
+* [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
 
 
 #### I am currently looking for a job as a Junior Data Scientist so I would really appreciate any offers :D
