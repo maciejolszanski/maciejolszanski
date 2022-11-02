@@ -8,6 +8,7 @@ Currently, I spend most of my time developing my Data Science skills. Here are m
 * [Machine Learning](https://github.com/maciejolszanski/ML_basics)
 * [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
 * [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
+* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker)
 
 I made few web projects using Django, too:
 * [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
