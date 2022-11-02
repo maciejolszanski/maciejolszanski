@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a begginer Python programmer. I am happy to see you on my github. Please take a look at my profile.
+I am a begginer Python programmer. I am happy to see you on my GitHub. Please take a look at my profile.
 
 ### My projects
 Currently, I spend most of my time developing my Data Science skills. Here are my repos within this area:
