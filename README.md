@@ -4,6 +4,10 @@ I am a begginer Python programmer. I am happy to see you on my GitHub. Please ta
 
 :loudspeaker: <b>I am currently looking for a job as a Junior Data Scientist/Junior Data Engineer so I would really appreciate any offers :D</b> :loudspeaker:
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/maciejolszanski)
+
+
+
 ### My projects
 Currently, I spend most of my time developing my Data Science skills. Here are my repos within this area:
 
@@ -26,7 +30,7 @@ You can also find here few projects using pygame module  - developing them I imp
 
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maciejolszanski)
+
 <!-- This shows my most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejolszanski)](https://github.com/anuraghazra/github-readme-stats)
 
