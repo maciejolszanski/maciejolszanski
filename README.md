@@ -26,8 +26,7 @@ You can also find here few projects using pygame module  - developing them I imp
 
 
 
- https://www.linkedin.com/in/maciejolszanski/
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 <!-- This shows my most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejolszanski)](https://github.com/anuraghazra/github-readme-stats)
 
