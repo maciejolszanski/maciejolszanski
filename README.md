@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a begginer Python enthusiast. I am happy to see you on my GitHub. Please take a look at my profile.
+I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look at my profile.
 
 :loudspeaker: <b>I am currently looking for a job as a Junior Data Scientist/Junior Data Engineer so I would really appreciate any offers :D</b> :loudspeaker:
 
