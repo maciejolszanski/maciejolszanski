@@ -2,23 +2,22 @@
 
 I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look at my profile.
 
-:loudspeaker: <b>I am currently looking for a job as a Junior Data Scientist/Junior Data Engineer so I would really appreciate any offers :D</b> :loudspeaker:
+:loudspeaker: <b>I am currently looking for a job as a Junior Data Engineer so I would really appreciate any offers :D</b> :loudspeaker:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 
 
 
 ### My projects
-Currently, I spend most of my time developing my Data Science skills. Here are my repos within this area:
+My web-scraping projects, related to Data:
+* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker) - ready to use
+* [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
+* [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
 
+Here are my repos containing Data Science learning projects:
 * [Machine Learning](https://github.com/maciejolszanski/ML_basics)
 * [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
 * [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
-
-And smaller web-scraping projects (also related to Data):
-* [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
-* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker)
-* [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
 
 I made few web projects using Django, too:
 * [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
