@@ -12,7 +12,7 @@ I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look
 I'm currently working on my end-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
 * [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
 
-My web-scraping projects, related to Data:
+My web-scraping projects:
 * [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker) - ready to use
 * [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
 * [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
