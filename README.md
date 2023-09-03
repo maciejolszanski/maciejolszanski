@@ -10,15 +10,19 @@ I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look
 
 ### My projects
 End-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
-* [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
+* ⭐ [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
 
 Ready to use web-scraping project:
-* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker) - ready to use
+* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker)
 
 "Budget Manager" Django project:
 * [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
 
-
+   
+</br>
+</br>
+   
+   
 My other, less documented projects, created during learning process:
 * [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
 * [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
