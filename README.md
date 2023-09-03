@@ -9,27 +9,22 @@ I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look
 
 
 ### My projects
-I'm currently working on my end-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
+End-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
 * [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
 
-My web-scraping projects:
+Ready to use web-scraping project:
 * [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker) - ready to use
+
+"Budget Manager" Django project:
+* [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
+
+
+My other, less documented projects, created during learning process:
+* [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
 * [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
 * [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
-
-Here are my repos containing Data Science learning projects:
-* [Machine Learning](https://github.com/maciejolszanski/ML_basics)
-* [Data Visualisation](https://github.com/maciejolszanski/Data_visualisation)
-* [Data Mastering](https://github.com/maciejolszanski/Data_mastering)
-
-I made few web projects using Django, too:
-* [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
-* [Learning Logs](https://github.com/maciejolszanski/Learning_Logs)
-
-You can also find here few projects using pygame module  - developing them I improved OOP.
-* [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
-* [Alien Invasion](https://github.com/maciejolszanski/Alien_Invasion_development)
-
+* [Alien Invasion](https://github.com/maciejolszanski/Alien_Invasion_development) (E. Matthes "Python Crash Course")
+* [Learning Logs](https://github.com/maciejolszanski/Learning_Logs) (E. Matthes "Python Crash Course")
 
 
 
