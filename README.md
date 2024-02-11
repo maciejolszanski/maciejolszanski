@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 I am a Python enthusiast. I am happy to see you on my GitHub. Please take a look at my profile.
-
-:loudspeaker: <b>I am currently looking for a job as a Data Engineer so I would really appreciate any offers :D</b> :loudspeaker:
-
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 
 
