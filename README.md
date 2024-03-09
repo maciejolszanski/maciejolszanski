@@ -7,16 +7,15 @@ See also my [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linke
 
 
 ### My projects
-End-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
-* ⭐ [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
+* End-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
+🥇 [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
+* Ready to use web-scraping project:
+✈️ [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker)
+* "Budget Manager" Django project:
+💰 [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
 
-Ready to use web-scraping project:
-* [Flight Price checker](https://github.com/maciejolszanski/Flight_price_checker)
-
-"Budget Manager" Django project:
-* [Budget Manager](https://github.com/maciejolszanski/Budget_manager)
-
-   
+### Currently working on:
+* App to browse, read only articles matching your interests: 📰 [News Catalog](https://github.com/maciejolszanski/news-catalog)
 </br>
 </br>
    
