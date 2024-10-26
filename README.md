@@ -16,6 +16,7 @@ See also my [LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 
 ### Currently working on:
 * App to browse, read only articles matching your interests: 📰 [News Catalog](https://github.com/maciejolszanski/news-catalog)
+* Streaming analytics solution: ⏩ [Streaming Analytics](https://github.com/maciejolszanski/adventure-works-streaming-analytics)
 </br>
 </br>
    
