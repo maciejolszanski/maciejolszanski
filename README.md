@@ -7,7 +7,6 @@ I am happy to see you on my GitHub. Please take a look at my profile.
 See also my [LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 
 
-
 ### My projects
 * End-to-end Data Engineering project using **Airflow**, **Azure Data Factory** and **Databricks**:
 🥇 [YT popular channels analysis](https://github.com/maciejolszanski/YT-channels-analysis)
@@ -30,12 +29,9 @@ My other, less documented projects, created during learning process:
 * [Alien Invasion](https://github.com/maciejolszanski/Alien_Invasion_development) (E. Matthes "Python Crash Course")
 * [Learning Logs](https://github.com/maciejolszanski/Learning_Logs) (E. Matthes "Python Crash Course")
 
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejolszanski&hide=jupyter%20notebook&layout=compact)
 
-
-<!-- This shows my most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejolszanski)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
 <!--
 **maciejolszanski/maciejolszanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
