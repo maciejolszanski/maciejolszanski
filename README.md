@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am a Data Engineer. I use Python, PySpark and SQL on daily basis. I'm also learning Scala currently.
-
+I am a Data Engineer. I use Python, PySpark and SQL on daily basis. I'm also learning Scala and Rust currently.
 I am happy to see you on my GitHub. Please take a look at my profile.
 
 See also my [LinkedIn](https://www.linkedin.com/in/maciejolszanski)
