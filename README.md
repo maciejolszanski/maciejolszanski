@@ -21,7 +21,7 @@ See also my [LinkedIn](https://www.linkedin.com/in/maciejolszanski)
 </br>
    
    
-My other, less documented projects, created during learning process:
+My other (less documented projects) created during my learning process:
 * [Icy Tower](https://github.com/maciejolszanski/Icy_Tower)
 * [EDO rates](https://github.com/maciejolszanski/EDO_rates) - developed as a python module
 * [Perfumes prices](https://github.com/maciejolszanski/Web_scraping_perfumes_prices)
